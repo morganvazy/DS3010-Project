@@ -1,0 +1,463 @@
+Category,Subcategory,total_sampled,year,grade,value,value_mean_or_percent,standard_deviation
+Digital Media,Internet (hr/day),49006,1976-1979,8,,,
+Digital Media,Internet(hr/day),51447,1976-1979,10,,,
+Digital Media,Internet(hr/day),20250,1976-1979,12,,,
+Digital Media,Internet(hr/day),49006,1980-1984,8,,,
+Digital Media,Internet(hr/day),51447,1980-1984,10,,,
+Digital Media,Internet(hr/day),20250,1980-1984,12,,,
+Digital Media,Internet(hr/day),49006,1985-1989,8,,,
+Digital Media,Internet(hr/day),51447,1985-1989,10,,,
+Digital Media,Internet(hr/day),20250,1985-1989,12,,,
+Digital Media,Internet(hr/day),49006,1990-1994,8,,,
+Digital Media,Internet(hr/day),51447,1990-1994,10,,,
+Digital Media,Internet(hr/day),20250,1990-1994,12,,,
+Digital Media,Internet(hr/day),49006,1995-1999,8,,,
+Digital Media,Internet(hr/day),51447,1995-1999,10,,,
+Digital Media,Internet(hr/day),20250,1995-1999,12,,,
+Digital Media,Internet(hr/day),49006,2000-2004,8,,,
+Digital Media,Internet(hr/day),51447,2000-2004,10,,,
+Digital Media,Internet(hr/day),20250,2000-2004,12,,,
+Digital Media,Internet(hr/day),49006,2005-2009,8,1.04,mean,1.34
+Digital Media,Internet(hr/day),51447,2005-2009,10,1.12,mean,1.34
+Digital Media,Internet(hr/day),20250,2005-2009,12,1.06,mean,1.32
+Digital Media,Internet(hr/day),49006,2010,8,1.08,mean,1.58
+Digital Media,Internet(hr/day),51447,2010,10,1.18,mean,1.59
+Digital Media,Internet(hr/day),20250,2010,12,1.35,mean,1.66
+Digital Media,Internet(hr/day),49006,2011,8,1.12,mean,1.61
+Digital Media,Internet(hr/day),51447,2011,10,1.24,mean,1.68
+Digital Media,Internet(hr/day),20250,2011,12,1.44,mean,1.76
+Digital Media,Internet(hr/day),49006,2012,8,1.15,mean,1.65
+Digital Media,Internet(hr/day),51447,2012,10,1.34,mean,1.73
+Digital Media,Internet(hr/day),20250,2012,12,1.57,mean,1.88
+Digital Media,Internet(hr/day),49006,2013,8,1.42,mean,1.92
+Digital Media,Internet(hr/day),51447,2013,10,1.54,mean,1.89
+Digital Media,Internet(hr/day),20250,2013,12,1.74,mean,1.93
+Digital Media,Internet(hr/day),49006,2014,8,1.5,mean,1.99
+Digital Media,Internet(hr/day),51447,2014,10,1.79,mean,2.05
+Digital Media,Internet(hr/day),20250,2014,12,1.95,mean,2.01
+Digital Media,Internet(hr/day),49006,2015,8,1.66,mean,2.07
+Digital Media,Internet(hr/day),51447,2015,10,1.78,mean,2.04
+Digital Media,Internet(hr/day),20250,2015,12,2.03,mean,2.09
+Digital Media,Internet(hr/day),49006,2016,8,1.66,mean,2.03
+Digital Media,Internet(hr/day),51447,2016,10,1.92,mean,2.07
+Digital Media,Internet(hr/day),20250,2016,12,2.18,mean,2.14
+Digital Media,Texting (hr/day),30740,1976-1979,8,,,
+Digital Media,Texting (hr/day),31649,1976-1979,10,,,
+Digital Media,Texting (hr/day),11858,1976-1979,12,,,
+Digital Media,Texting (hr/day),30740,1980-1984,8,,,
+Digital Media,Texting (hr/day),31649,1980-1984,10,,,
+Digital Media,Texting (hr/day),11858,1980-1984,12,,,
+Digital Media,Texting (hr/day),30740,1985-1989,8,,,
+Digital Media,Texting (hr/day),31649,1985-1989,10,,,
+Digital Media,Texting (hr/day),11858,1985-1989,12,,,
+Digital Media,Texting (hr/day),30740,1990-1994,8,,,
+Digital Media,Texting (hr/day),31649,1990-1994,10,,,
+Digital Media,Texting (hr/day),11858,1990-1994,12,,,
+Digital Media,Texting (hr/day),30740,1995-1999,8,,,
+Digital Media,Texting (hr/day),31649,1995-1999,10,,,
+Digital Media,Texting (hr/day),11858,1995-1999,12,,,
+Digital Media,Texting (hr/day),30740,2000-2004,8,,,
+Digital Media,Texting (hr/day),31649,2000-2004,10,,,
+Digital Media,Texting (hr/day),11858,2000-2004,12,,,
+Digital Media,Texting (hr/day),30740,2005-2009,8,,,
+Digital Media,Texting (hr/day),31649,2005-2009,10,,,
+Digital Media,Texting (hr/day),11858,2005-2009,12,,,
+Digital Media,Texting (hr/day),30740,2010,8,1.84,mean,2.39
+Digital Media,Texting (hr/day),31649,2010,10,2.21,mean,2.49
+Digital Media,Texting (hr/day),11858,2010,12,2.39,mean,2.51
+Digital Media,Texting (hr/day),30740,2011,8,1.88,mean,2.39
+Digital Media,Texting (hr/day),31649,2011,10,2.34,mean,2.52
+Digital Media,Texting (hr/day),11858,2011,12,2.48,mean,2.5
+Digital Media,Texting (hr/day),30740,2012,8,1.66,mean,2.24
+Digital Media,Texting (hr/day),31649,2012,10,2.11,mean,2.4
+Digital Media,Texting (hr/day),11858,2012,12,2.31,mean,2.39
+Digital Media,Texting (hr/day),30740,2013,8,1.64,mean,2.21
+Digital Media,Texting (hr/day),31649,2013,10,2.06,mean,2.36
+Digital Media,Texting (hr/day),11858,2013,12,2.3,mean,2.42
+Digital Media,Texting (hr/day),30740,2014,8,1.51,mean,2.12
+Digital Media,Texting (hr/day),31649,2014,10,2.02,mean,2.34
+Digital Media,Texting (hr/day),11858,2014,12,2.25,mean,2.35
+Digital Media,Texting (hr/day),30740,2015,8,1.46,mean,2.1
+Digital Media,Texting (hr/day),31649,2015,10,1.77,mean,2.19
+Digital Media,Texting (hr/day),11858,2015,12,2.08,mean,2.3
+Digital Media,Texting (hr/day),30740,2016,8,1.27,mean,1.89
+Digital Media,Texting (hr/day),31649,2016,10,1.68,mean,2.1
+Digital Media,Texting (hr/day),11858,2016,12,1.99,mean,1.25
+Digital Media,Social Media (hr/day),17166,1976-1979,8,,,
+Digital Media,Social Media (hr/day),17532,1976-1979,10,,,
+Digital Media,Social Media (hr/day),5658,1976-1979,12,,,
+Digital Media,Social Media (hr/day),17166,1980-1984,8,,,
+Digital Media,Social Media (hr/day),17532,1980-1984,10,,,
+Digital Media,Social Media (hr/day),5658,1980-1984,12,,,
+Digital Media,Social Media (hr/day),17166,1985-1989,8,,,
+Digital Media,Social Media (hr/day),17532,1985-1989,10,,,
+Digital Media,Social Media (hr/day),5658,1985-1989,12,,,
+Digital Media,Social Media (hr/day),17166,1990-1994,8,,,
+Digital Media,Social Media (hr/day),17532,1990-1994,10,,,
+Digital Media,Social Media (hr/day),5658,1990-1994,12,,,
+Digital Media,Social Media (hr/day),17166,1995-1999,8,,,
+Digital Media,Social Media (hr/day),17532,1995-1999,10,,,
+Digital Media,Social Media (hr/day),5658,1995-1999,12,,,
+Digital Media,Social Media (hr/day),17166,2000-2004,8,,,
+Digital Media,Social Media (hr/day),17532,2000-2004,10,,,
+Digital Media,Social Media (hr/day),5658,2000-2004,12,,,
+Digital Media,Social Media (hr/day),17166,2005-2009,8,,,
+Digital Media,Social Media (hr/day),17532,2005-2009,10,,,
+Digital Media,Social Media (hr/day),5658,2005-2009,12,,,
+Digital Media,Social Media (hr/day),17166,2010,8,,,
+Digital Media,Social Media (hr/day),17532,2010,10,,,
+Digital Media,Social Media (hr/day),5658,2010,12,,,
+Digital Media,Social Media (hr/day),17166,2011,8,,,
+Digital Media,Social Media (hr/day),17532,2011,10,,,
+Digital Media,Social Media (hr/day),5658,2011,12,,,
+Digital Media,Social Media (hr/day),17166,2012,8,,,
+Digital Media,Social Media (hr/day),17532,2012,10,,,
+Digital Media,Social Media (hr/day),5658,2012,12,,,
+Digital Media,Social Media (hr/day),17166,2013,8,1.25,mean,1.98
+Digital Media,Social Media (hr/day),17532,2013,10,1.34,mean,1.95
+Digital Media,Social Media (hr/day),5658,2013,12,1.43,mean,1.95
+Digital Media,Social Media (hr/day),17166,2014,8,1.49,mean,2.14
+Digital Media,Social Media (hr/day),17532,2014,10,1.73,mean,2.2
+Digital Media,Social Media (hr/day),5658,2014,12,1.78,mean,2.14
+Digital Media,Social Media (hr/day),17166,2015,8,1.41,mean,2.07
+Digital Media,Social Media (hr/day),17532,2015,10,1.61,mean,2.1
+Digital Media,Social Media (hr/day),5658,2015,12,1.7,mean,2.11
+Digital Media,Social Media (hr/day),17166,2016,8,1.36,mean,1.99
+Digital Media,Social Media (hr/day),17532,2016,10,1.63,mean,2.06
+Digital Media,Social Media (hr/day),5658,2016,12,1.75,mean,2.13
+Digital Media,Social Media (1-5 scale),109958,1976-1979,8,,,
+Digital Media,Social Media (1-5 scale),100395,1976-1979,10,,,
+Digital Media,Social Media (1-5 scale),20849,1976-1979,12,,,
+Digital Media,Social Media (1-5 scale),109958,1980-1984,8,,,
+Digital Media,Social Media (1-5 scale),100395,1980-1984,10,,,
+Digital Media,Social Media (1-5 scale),20849,1980-1984,12,,,
+Digital Media,Social Media (1-5 scale),109958,1985-1989,8,,,
+Digital Media,Social Media (1-5 scale),100395,1985-1989,10,,,
+Digital Media,Social Media (1-5 scale),20849,1985-1989,12,,,
+Digital Media,Social Media (1-5 scale),109958,1990-1994,8,,,
+Digital Media,Social Media (1-5 scale),100395,1990-1994,10,,,
+Digital Media,Social Media (1-5 scale),20849,1990-1994,12,,,
+Digital Media,Social Media (1-5 scale),109958,1995-1999,8,,,
+Digital Media,Social Media (1-5 scale),100395,1995-1999,10,,,
+Digital Media,Social Media (1-5 scale),20849,1995-1999,12,,,
+Digital Media,Social Media (1-5 scale),109958,2000-2004,8,,,
+Digital Media,Social Media (1-5 scale),100395,2000-2004,10,,,
+Digital Media,Social Media (1-5 scale),20849,2000-2004,12,,,
+Digital Media,Social Media (1-5 scale),109958,2005-2009,8,3.73,mean,1.58
+Digital Media,Social Media (1-5 scale),100395,2005-2009,10,4.04,mean,1.37
+Digital Media,Social Media (1-5 scale),20849,2005-2009,12,3.98,mean,1.37
+Digital Media,Social Media (1-5 scale),109958,2010,8,4,mean,1.45
+Digital Media,Social Media (1-5 scale),100395,2010,10,4.24,mean,1.26
+Digital Media,Social Media (1-5 scale),20849,2010,12,4.26,mean,1.22
+Digital Media,Social Media (1-5 scale),109958,2011,8,4.07,mean,1.43
+Digital Media,Social Media (1-5 scale),100395,2011,10,4.36,mean,1.19
+Digital Media,Social Media (1-5 scale),20849,2011,12,4.41,mean,1.13
+Digital Media,Social Media (1-5 scale),109958,2012,8,4.09,mean,1.38
+Digital Media,Social Media (1-5 scale),100395,2012,10,4.43,mean,1.11
+Digital Media,Social Media (1-5 scale),20849,2012,12,4.48,mean,1.07
+Digital Media,Social Media (1-5 scale),109958,2013,8,4.15,mean,1.35
+Digital Media,Social Media (1-5 scale),100395,2013,10,4.43,mean,1.13
+Digital Media,Social Media (1-5 scale),20849,2013,12,4.48,mean,1.07
+Digital Media,Social Media (1-5 scale),109958,2014,8,4.34,mean,1.27
+Digital Media,Social Media (1-5 scale),100395,2014,10,4.53,mean,1.07
+Digital Media,Social Media (1-5 scale),20849,2014,12,4.59,mean,0.99
+Digital Media,Social Media (1-5 scale),109958,2015,8,4.41,mean,1.22
+Digital Media,Social Media (1-5 scale),100395,2015,10,4.57,mean,1.05
+Digital Media,Social Media (1-5 scale),20849,2015,12,4.65,mean,0.89
+Digital Media,Social Media (1-5 scale),109958,2016,8,4.4,mean,1.23
+Digital Media,Social Media (1-5 scale),100395,2016,10,4.63,mean,0.97
+Digital Media,Social Media (1-5 scale),20849,2016,12,4.64,mean,0.94
+Digital Media,Social Media almost every day (%),109958,1976-1979,8,,,
+Digital Media,Social Media almost every day (%),100395,1976-1979,10,,,
+Digital Media,Social Media almost every day (%),20849,1976-1979,12,,,
+Digital Media,Social Media almost every day (%),109958,1980-1984,8,,,
+Digital Media,Social Media almost every day (%),100395,1980-1984,10,,,
+Digital Media,Social Media almost every day (%),20849,1980-1984,12,,,
+Digital Media,Social Media almost every day (%),109958,1985-1989,8,,,
+Digital Media,Social Media almost every day (%),100395,1985-1989,10,,,
+Digital Media,Social Media almost every day (%),20849,1985-1989,12,,,
+Digital Media,Social Media almost every day (%),109958,1990-1994,8,,,
+Digital Media,Social Media almost every day (%),100395,1990-1994,10,,,
+Digital Media,Social Media almost every day (%),20849,1990-1994,12,,,
+Digital Media,Social Media almost every day (%),109958,1995-1999,8,,,
+Digital Media,Social Media almost every day (%),100395,1995-1999,10,,,
+Digital Media,Social Media almost every day (%),20849,1995-1999,12,,,
+Digital Media,Social Media almost every day (%),109958,2000-2004,8,,,
+Digital Media,Social Media almost every day (%),100395,2000-2004,10,,,
+Digital Media,Social Media almost every day (%),20849,2000-2004,12,,,
+Digital Media,Social Media almost every day (%),109958,2005-2009,8,51,percent,1.58
+Digital Media,Social Media almost every day (%),100395,2005-2009,10,58,percent,1.37
+Digital Media,Social Media almost every day (%),20849,2005-2009,12,52,percent,1.37
+Digital Media,Social Media almost every day (%),109958,2010,8,57,percent,1.45
+Digital Media,Social Media almost every day (%),100395,2010,10,64,percent,1.26
+Digital Media,Social Media almost every day (%),20849,2010,12,63,percent,1.22
+Digital Media,Social Media almost every day (%),109958,2011,8,61,percent,1.43
+Digital Media,Social Media almost every day (%),100395,2011,10,69,percent,1.19
+Digital Media,Social Media almost every day (%),20849,2011,12,70,percent,1.13
+Digital Media,Social Media almost every day (%),109958,2012,8,59,percent,1.38
+Digital Media,Social Media almost every day (%),100395,2012,10,71,percent,1.11
+Digital Media,Social Media almost every day (%),20849,2012,12,72,percent,1.07
+Digital Media,Social Media almost every day (%),109958,2013,8,62,percent,1.35
+Digital Media,Social Media almost every day (%),100395,2013,10,72,percent,1.13
+Digital Media,Social Media almost every day (%),20849,2013,12,74,percent,1.07
+Digital Media,Social Media almost every day (%),109958,2014,8,72,percent,1.27
+Digital Media,Social Media almost every day (%),100395,2014,10,79,percent,1.07
+Digital Media,Social Media almost every day (%),20849,2014,12,81,percent,0.99
+Digital Media,Social Media almost every day (%),109958,2015,8,75,percent,1.22
+Digital Media,Social Media almost every day (%),100395,2015,10,81,percent,1.05
+Digital Media,Social Media almost every day (%),20849,2015,12,82,percent,0.89
+Digital Media,Social Media almost every day (%),109958,2016,8,75,percent,1.23
+Digital Media,Social Media almost every day (%),100395,2016,10,83,percent,0.97
+Digital Media,Social Media almost every day (%),20849,2016,12,82,percent,0.94
+Digital Media,Gaming(hr/day),39560,1976-1979,8,,,
+Digital Media,Gaming(hr/day),41437,1976-1979,10,,,
+Digital Media,Gaming(hr/day),15827,1976-1979,12,,,
+Digital Media,Gaming(hr/day),39560,1980-1984,8,,,
+Digital Media,Gaming(hr/day),41437,1980-1984,10,,,
+Digital Media,Gaming(hr/day),15827,1980-1984,12,,,
+Digital Media,Gaming(hr/day),39560,1985-1989,8,,,
+Digital Media,Gaming(hr/day),41437,1985-1989,10,,,
+Digital Media,Gaming(hr/day),15827,1985-1989,12,,,
+Digital Media,Gaming(hr/day),39560,1990-1994,8,,,
+Digital Media,Gaming(hr/day),41437,1990-1994,10,,,
+Digital Media,Gaming(hr/day),15827,1990-1994,12,,,
+Digital Media,Gaming(hr/day),39560,1995-1999,8,,,
+Digital Media,Gaming(hr/day),41437,1995-1999,10,,,
+Digital Media,Gaming(hr/day),15827,1995-1999,12,,,
+Digital Media,Gaming(hr/day),39560,2000-2004,8,,,
+Digital Media,Gaming(hr/day),41437,2000-2004,10,,,
+Digital Media,Gaming(hr/day),15827,2000-2004,12,,,
+Digital Media,Gaming(hr/day),39560,2005-2009,8,1.05,mean,1.42
+Digital Media,Gaming(hr/day),41437,2005-2009,10,0.93,mean,1.35
+Digital Media,Gaming(hr/day),15827,2005-2009,12,0.92,mean,1.35
+Digital Media,Gaming(hr/day),39560,2010,8,1.29,mean,1.84
+Digital Media,Gaming(hr/day),41437,2010,10,1.19,mean,1.75
+Digital Media,Gaming(hr/day),15827,2010,12,1.29,mean,1.85
+Digital Media,Gaming(hr/day),39560,2011,8,1.37,mean,1.87
+Digital Media,Gaming(hr/day),41437,2011,10,1.25,mean,1.84
+Digital Media,Gaming(hr/day),15827,2011,12,1.31,mean,1.83
+Digital Media,Gaming(hr/day),39560,2012,8,1.34,mean,1.82
+Digital Media,Gaming(hr/day),41437,2012,10,1.32,mean,1.87
+Digital Media,Gaming(hr/day),15827,2012,12,1.38,mean,1.93
+Digital Media,Gaming(hr/day),39560,2013,8,1.57,mean,2.01
+Digital Media,Gaming(hr/day),41437,2013,10,1.45,mean,1.96
+Digital Media,Gaming(hr/day),15827,2013,12,1.41,mean,1.93
+Digital Media,Gaming(hr/day),39560,2014,8,1.6,mean,2.05
+Digital Media,Gaming(hr/day),41437,2014,10,1.62,mean,2.09
+Digital Media,Gaming(hr/day),15827,2014,12,1.44,mean,1.89
+Digital Media,Gaming(hr/day),39560,2015,8,1.61,mean,2.05
+Digital Media,Gaming(hr/day),41437,2015,10,1.45,mean,1.96
+Digital Media,Gaming(hr/day),15827,2015,12,1.46,mean,1.97
+Digital Media,Gaming(hr/day),39560,2016,8,1.57,mean,1.98
+Digital Media,Gaming(hr/day),41437,2016,10,1.54,mean,1.99
+Digital Media,Gaming(hr/day),15827,2016,12,1.5,mean,1.98
+Legacy Media,Books (# in last year),108896,1976-1979,12,5.15,mean,4.24
+Legacy Media,books/magazines (1-5 scale),110732,1976-1979,12,4.39,mean,0.91
+Legacy Media,books/magazines every day (%),110732,1976-1979,12,60,percent,
+Legacy Media,Books (# in last year),108896,1980-1984,12,4.66,mean,4.13
+Legacy Media,books/magazines (1-5 scale),110732,1980-1984,12,4.32,mean,0.94
+Legacy Media,books/magazines every day (%),110732,1980-1984,12,56,percent,
+Legacy Media,Books (# in last year),108896,1985-1989,12,4.17,mean,4.04
+Legacy Media,books/magazines (1-5 scale),110732,1985-1989,12,4.19,mean,0.99
+Legacy Media,books/magazines every day (%),110732,1985-1989,12,48,percent,
+Legacy Media,Books (# in last year),108896,1990-1994,12,3.96,mean,3.92
+Legacy Media,books/magazines (1-5 scale),110732,1990-1994,12,4.15,mean,1
+Legacy Media,books/magazines every day (%),110732,1990-1994,12,46,percent,
+Legacy Media,Books (# in last year),108896,1995-1999,12,3.68,mean,3.85
+Legacy Media,books/magazines (1-5 scale),110732,1995-1999,12,4.03,mean,1.04
+Legacy Media,books/magazines every day (%),110732,1995-1999,12,41,percent,
+Legacy Media,Books (# in last year),108896,2000-2004,12,3.33,mean,3.68
+Legacy Media,books/magazines (1-5 scale),110732,2000-2004,12,3.91,mean,1.08
+Legacy Media,books/magazines every day (%),110732,2000-2004,12,35,percent,
+Legacy Media,Books (# in last year),108896,2005-2009,12,3.85,mean,3.91
+Legacy Media,books/magazines (1-5 scale),110732,2005-2009,12,3.79,mean,1.15
+Legacy Media,books/magazines every day (%),110732,2005-2009,12,32,percent,
+Legacy Media,Books (# in last year),108896,2010,12,3.78,mean,3.85
+Legacy Media,books/magazines (1-5 scale),110732,2010,12,3.57,mean,1.2
+Legacy Media,books/magazines every day (%),110732,2010,12,26,percent,
+Legacy Media,Books (# in last year),108896,2011,12,3.93,mean,4.02
+Legacy Media,books/magazines (1-5 scale),110732,2011,12,3.52,mean,1.22
+Legacy Media,books/magazines every day (%),110732,2011,12,25,percent,
+Legacy Media,Books (# in last year),108896,2012,12,3.77,mean,4.04
+Legacy Media,books/magazines (1-5 scale),110732,2012,12,3.43,mean,1.26
+Legacy Media,books/magazines every day (%),110732,2012,12,24,percent,
+Legacy Media,Books (# in last year),108896,2013,12,3.36,mean,3.74
+Legacy Media,books/magazines (1-5 scale),110732,2013,12,3.29,mean,1.27
+Legacy Media,books/magazines every day (%),110732,2013,12,21,percent,
+Legacy Media,Books (# in last year),108896,2014,12,3.31,mean,3.84
+Legacy Media,books/magazines (1-5 scale),110732,2014,12,3.17,mean,1.29
+Legacy Media,books/magazines every day (%),110732,2014,12,18,percent,
+Legacy Media,Books (# in last year),108896,2015,12,3.43,mean,3.84
+Legacy Media,books/magazines (1-5 scale),110732,2015,12,3.07,mean,1.3
+Legacy Media,books/magazines every day (%),110732,2015,12,16,percent,
+Legacy Media,Books (# in last year),108896,2016,12,3.24,mean,3.87
+Legacy Media,books/magazines (1-5 scale),110732,2016,12,3.03,mean,1.3
+Legacy Media,books/magazines every day (%),110732,2016,12,16,percent,
+Legacy Media,Magazines(1-5 scale),438666,1976-1979,8,,,
+Legacy Media,Magazines(1-5 scale),399708,1976-1979,10,,,
+Legacy Media,Magazines(1-5 scale),,1976-1979,12,,,
+Legacy Media,Magazines(1-5 scale),438666,1980-1984,8,,,
+Legacy Media,Magazines(1-5 scale),399708,1980-1984,10,,,
+Legacy Media,Magazines(1-5 scale),,1980-1984,12,,,
+Legacy Media,Magazines(1-5 scale),438666,1985-1989,8,,,
+Legacy Media,Magazines(1-5 scale),399708,1985-1989,10,,,
+Legacy Media,Magazines(1-5 scale),,1985-1989,12,,,
+Legacy Media,Magazines(1-5 scale),438666,1990-1994,8,3.59,mean,1.12
+Legacy Media,Magazines(1-5 scale),399708,1990-1994,10,3.55,mean,1.03
+Legacy Media,Magazines(1-5 scale),,1990-1994,12,,,
+Legacy Media,Magazines(1-5 scale),438666,1995-1999,8,3.59,mean,1.12
+Legacy Media,Magazines(1-5 scale),399708,1995-1999,10,3.52,mean,1.03
+Legacy Media,Magazines(1-5 scale),,1995-1999,12,,,
+Legacy Media,Magazines(1-5 scale),438666,2000-2004,8,3.39,mean,1.18
+Legacy Media,Magazines(1-5 scale),399708,2000-2004,10,3.33,mean,1.09
+Legacy Media,Magazines(1-5 scale),,2000-2004,12,,,
+Legacy Media,Magazines(1-5 scale),438666,2005-2009,8,3.04,mean,1.24
+Legacy Media,Magazines(1-5 scale),399708,2005-2009,10,3.04,mean,1.15
+Legacy Media,Magazines(1-5 scale),,2005-2009,12,,,
+Legacy Media,Magazines(1-5 scale),438666,2010,8,2.7,mean,1.25
+Legacy Media,Magazines(1-5 scale),399708,2010,10,2.73,mean,1.16
+Legacy Media,Magazines(1-5 scale),,2010,12,,,
+Legacy Media,Magazines(1-5 scale),438666,2011,8,2.6,mean,1.23
+Legacy Media,Magazines(1-5 scale),399708,2011,10,2.61,mean,1.16
+Legacy Media,Magazines(1-5 scale),,2011,12,,,
+Legacy Media,Magazines(1-5 scale),438666,2012,8,2.53,mean,1.22
+Legacy Media,Magazines(1-5 scale),399708,2012,10,2.54,mean,1.16
+Legacy Media,Magazines(1-5 scale),,2012,12,,,
+Legacy Media,Magazines(1-5 scale),438666,2013,8,2.38,mean,1.21
+Legacy Media,Magazines(1-5 scale),399708,2013,10,2.37,mean,1.14
+Legacy Media,Magazines(1-5 scale),,2013,12,,,
+Legacy Media,Magazines(1-5 scale),438666,2014,8,2.22,mean,1.16
+Legacy Media,Magazines(1-5 scale),399708,2014,10,2.17,mean,1.1
+Legacy Media,Magazines(1-5 scale),,2014,12,,,
+Legacy Media,Magazines(1-5 scale),438666,2015,8,2.08,mean,1.12
+Legacy Media,Magazines(1-5 scale),399708,2015,10,2.03,mean,1.07
+Legacy Media,Magazines(1-5 scale),,2015,12,,,
+Legacy Media,Magazines(1-5 scale),438666,2016,8,1.93,mean,1.08
+Legacy Media,Magazines(1-5 scale),399708,2016,10,1.9,mean,1.03
+Legacy Media,Magazines(1-5 scale),,2016,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,1976-1979,8,,,
+Legacy Media,Newspapers(1-5 scale),398777,1976-1979,10,,,
+Legacy Media,Newspapers(1-5 scale),,1976-1979,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,1980-1984,8,,,
+Legacy Media,Newspapers(1-5 scale),398777,1980-1984,10,,,
+Legacy Media,Newspapers(1-5 scale),,1980-1984,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,1985-1989,8,,,
+Legacy Media,Newspapers(1-5 scale),398777,1985-1989,10,,,
+Legacy Media,Newspapers(1-5 scale),,1985-1989,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,1990-1994,8,3.41,mean,1.32
+Legacy Media,Newspapers(1-5 scale),398777,1990-1994,10,3.74,mean,1.22
+Legacy Media,Newspapers(1-5 scale),,1990-1994,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,1995-1999,8,3.1,mean,1.33
+Legacy Media,Newspapers(1-5 scale),398777,1995-1999,10,3.48,mean,1.27
+Legacy Media,Newspapers(1-5 scale),,1995-1999,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,2000-2004,8,2.77,mean,1.33
+Legacy Media,Newspapers(1-5 scale),398777,2000-2004,10,3.16,mean,1.3
+Legacy Media,Newspapers(1-5 scale),,2000-2004,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,2005-2009,8,2.45,mean,1.31
+Legacy Media,Newspapers(1-5 scale),398777,2005-2009,10,2.8,mean,1.32
+Legacy Media,Newspapers(1-5 scale),,2005-2009,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,2010,8,2.1,mean,1.21
+Legacy Media,Newspapers(1-5 scale),398777,2010,10,2.36,mean,1.25
+Legacy Media,Newspapers(1-5 scale),,2010,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,2011,8,2.03,mean,1.19
+Legacy Media,Newspapers(1-5 scale),398777,2011,10,2.24,mean,1.23
+Legacy Media,Newspapers(1-5 scale),,2011,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,2012,8,1.95,mean,1.15
+Legacy Media,Newspapers(1-5 scale),398777,2012,10,2.16,mean,1.2
+Legacy Media,Newspapers(1-5 scale),,2012,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,2013,8,1.85,mean,1.11
+Legacy Media,Newspapers(1-5 scale),398777,2013,10,2,mean,1.14
+Legacy Media,Newspapers(1-5 scale),,2013,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,2014,8,1.76,mean,1.06
+Legacy Media,Newspapers(1-5 scale),398777,2014,10,1.88,mean,1.09
+Legacy Media,Newspapers(1-5 scale),,2014,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,2015,8,1.71,mean,1.02
+Legacy Media,Newspapers(1-5 scale),398777,2015,10,1.82,mean,1.06
+Legacy Media,Newspapers(1-5 scale),,2015,12,,,
+Legacy Media,Newspapers(1-5 scale),437126,2016,8,1.62,mean,0.98
+Legacy Media,Newspapers(1-5 scale),398777,2016,10,1.71,mean,1
+Legacy Media,Newspapers(1-5 scale),,2016,12,,,
+Legacy Media,Going to movies(1-5 scale),440279,1976-1979,8,,,
+Legacy Media,Going to movies(1-5 scale),400826,1976-1979,10,,,
+Legacy Media,Going to movies(1-5 scale),180104,1976-1979,12,2.72,mean,0.68
+Legacy Media,Going to movies(1-5 scale),440279,1980-1984,8,,,
+Legacy Media,Going to movies(1-5 scale),400826,1980-1984,10,,,
+Legacy Media,Going to movies(1-5 scale),180104,1980-1984,12,2.75,mean,0.67
+Legacy Media,Going to movies(1-5 scale),440279,1985-1989,8,,,
+Legacy Media,Going to movies(1-5 scale),400826,1985-1989,10,,,
+Legacy Media,Going to movies(1-5 scale),180104,1985-1989,12,2.78,mean,0.67
+Legacy Media,Going to movies(1-5 scale),440279,1990-1994,8,2.87,mean,0.76
+Legacy Media,Going to movies(1-5 scale),400826,1990-1994,10,2.72,mean,0.7
+Legacy Media,Going to movies(1-5 scale),180104,1990-1994,12,2.7,mean,0.67
+Legacy Media,Going to movies(1-5 scale),440279,1995-1999,8,2.89,mean,0.76
+Legacy Media,Going to movies(1-5 scale),400826,1995-1999,10,2.73,mean,0.7
+Legacy Media,Going to movies(1-5 scale),180104,1995-1999,12,2.7,mean,0.67
+Legacy Media,Going to movies(1-5 scale),440279,2000-2004,8,2.9,mean,0.77
+Legacy Media,Going to movies(1-5 scale),400826,2000-2004,10,2.75,mean,9.7
+Legacy Media,Going to movies(1-5 scale),180104,2000-2004,12,2.72,mean,0.67
+Legacy Media,Going to movies(1-5 scale),440279,2005-2009,8,2.86,mean,0.77
+Legacy Media,Going to movies(1-5 scale),400826,2005-2009,10,2.73,mean,0.7
+Legacy Media,Going to movies(1-5 scale),180104,2005-2009,12,2.68,mean,0.67
+Legacy Media,Going to movies(1-5 scale),440279,2010,8,2.75,mean,0.75
+Legacy Media,Going to movies(1-5 scale),400826,2010,10,2.65,mean,0.68
+Legacy Media,Going to movies(1-5 scale),180104,2010,12,2.62,mean,0.66
+Legacy Media,Going to movies(1-5 scale),440279,2011,8,2.7,mean,0.74
+Legacy Media,Going to movies(1-5 scale),400826,2011,10,2.57,mean,0.68
+Legacy Media,Going to movies(1-5 scale),180104,2011,12,2.53,mean,0.66
+Legacy Media,Going to movies(1-5 scale),440279,2012,8,2.68,mean,0.73
+Legacy Media,Going to movies(1-5 scale),400826,2012,10,2.61,mean,0.67
+Legacy Media,Going to movies(1-5 scale),180104,2012,12,2.57,mean,0.65
+Legacy Media,Going to movies(1-5 scale),440279,2013,8,2.63,mean,0.74
+Legacy Media,Going to movies(1-5 scale),400826,2013,10,2.54,mean,0.67
+Legacy Media,Going to movies(1-5 scale),180104,2013,12,2.49,mean,0.66
+Legacy Media,Going to movies(1-5 scale),440279,2014,8,2.64,mean,0.73
+Legacy Media,Going to movies(1-5 scale),400826,2014,10,2.51,mean,0.67
+Legacy Media,Going to movies(1-5 scale),180104,2014,12,2.49,mean,0.66
+Legacy Media,Going to movies(1-5 scale),440279,2015,8,2.63,mean,0.72
+Legacy Media,Going to movies(1-5 scale),400826,2015,10,2.49,mean,0.67
+Legacy Media,Going to movies(1-5 scale),180104,2015,12,2.48,mean,0.66
+Legacy Media,Going to movies(1-5 scale),440279,2016,8,2.59,mean,0.72
+Legacy Media,Going to movies(1-5 scale),400826,2016,10,2.48,mean,0.67
+Legacy Media,Going to movies(1-5 scale),180104,2016,12,2.44,mean,0.66
+Legacy Media,TV (hr/day),438359,1976-1979,8,,,
+Legacy Media,TV (hr/day),399337,1976-1979,10,,,
+Legacy Media,TV (hr/day) (weekdays only),109055,1976-1979,12,2.45,mean,1.83
+Legacy Media,TV (hr/day),438359,1980-1984,8,,,
+Legacy Media,TV (hr/day),399337,1980-1984,10,,,
+Legacy Media,TV (hr/day) (weekdays only),109055,1980-1984,12,2.42,mean,1.76
+Legacy Media,TV (hr/day),438359,1985-1989,8,,,
+Legacy Media,TV (hr/day),399337,1985-1989,10,,,
+Legacy Media,TV (hr/day) (weekdays only),109055,1985-1989,12,2.36,mean,1.77
+Legacy Media,TV (hr/day),438359,1990-1994,8,2.95,mean,1.61
+Legacy Media,TV (hr/day),399337,1990-1994,10,2.53,mean,1.55
+Legacy Media,TV (hr/day) (weekdays only),109055,1990-1994,12,2.34,mean,1.78
+Legacy Media,TV (hr/day),438359,1995-1999,8,2.89,mean,1.65
+Legacy Media,TV (hr/day),399337,1995-1999,10,2.42,mean,1.54
+Legacy Media,TV (hr/day) (weekdays only),109055,1995-1999,12,2.25,mean,1.78
+Legacy Media,TV (hr/day),438359,2000-2004,8,2.79,mean,1.65
+Legacy Media,TV (hr/day),399337,2000-2004,10,2.42,mean,1.59
+Legacy Media,TV (hr/day) (weekdays only),109055,2000-2004,12,2.2,mean,1.8
+Legacy Media,TV (hr/day),438359,2005-2009,8,2.64,mean,1.65
+Legacy Media,TV (hr/day),399337,2005-2009,10,2.34,mean,1.57
+Legacy Media,TV (hr/day) (weekdays only),109055,2005-2009,12,2.13,mean,1.75
+Legacy Media,TV (hr/day),438359,2010,8,2.49,mean,1.66
+Legacy Media,TV (hr/day),399337,2010,10,2.19,mean,1.54
+Legacy Media,TV (hr/day) (weekdays only),109055,2010,12,2.12,mean,1.75
+Legacy Media,TV (hr/day),438359,2011,8,2.44,mean,1.63
+Legacy Media,TV (hr/day),399337,2011,10,2.21,mean,1.54
+Legacy Media,TV (hr/day) (weekdays only),109055,2011,12,2.13,mean,1.77
+Legacy Media,TV (hr/day),438359,2012,8,2.29,mean,1.57
+Legacy Media,TV (hr/day),399337,2012,10,2.1,mean,1.52
+Legacy Media,TV (hr/day) (weekdays only),109055,2012,12,2.07,mean,1.75
+Legacy Media,TV (hr/day),438359,2013,8,2.34,mean,1.63
+Legacy Media,TV (hr/day),399337,2013,10,2.06,mean,1.43
+Legacy Media,TV (hr/day) (weekdays only),109055,2013,12,1.89,mean,1.69
+Legacy Media,TV (hr/day),438359,2014,8,2.28,mean,1.63
+Legacy Media,TV (hr/day),399337,2014,10,2.01,mean,1.53
+Legacy Media,TV (hr/day) (weekdays only),109055,2014,12,1.88,mean,1.69
+Legacy Media,TV (hr/day),438359,2015,8,2.13,mean,1.6
+Legacy Media,TV (hr/day),399337,2015,10,1.86,mean,1.51
+Legacy Media,TV (hr/day) (weekdays only),109055,2015,12,1.87,mean,1.75
+Legacy Media,TV (hr/day),438359,2016,8,2.04,mean,1.61
+Legacy Media,TV (hr/day),399337,2016,10,1.81,mean,1.51
+Legacy Media,TV (hr/day) (weekdays only),109055,2016,12,1.87,mean,1.79
